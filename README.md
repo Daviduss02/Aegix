@@ -5,7 +5,7 @@
 ---
 
 ## Academic Notice
-This application was developed by **Dávid Sventek** as an **Engineering Project** at the **Department of Info-Networks (KIS)**, **Faculty of Management Science and Informatics (FRI)**, **University of Žilina (UNIZA)**, Slovakia.
+This application was developed by **Dávid Sventek** as an **Engineering Project** at the **Department of Information Networks (KIS)**, **Faculty of Management Science and Informatics (FRI)**, **University of Žilina (UNIZA)**, Slovakia.
 
 ---
 
@@ -80,7 +80,8 @@ sudo python main.py
 
 ### Quick Guide:
 1. **Target Setup**: Fill in the Target IP (e.g., `10.0.0.0`) and Subnet Mask.
-2. **Details / Rules**: Write down specific instructions or goals for the agent in the "Details" textbox.
-3. **Select Tools**: Check the target tools you want the agent to use (e.g., `nmap`, `enum4linux`, `SQLmap`).
-4. **Run Agent**: Click **RUN**.
-5. **Confirmation**: When the AI proposes a command, review the pop-up and confirm or decline execution.
+2. **Set up your LLM**: in settings configure your LLM for the aplication to communicate with.
+3. **Details / Rules**: Write down specific instructions or goals for the agent in the "Details" textbox.
+4. **Select Tools**: Check the target tools you want the agent to use (e.g., `nmap`, `enum4linux`, `SQLmap`).
+5. **Run Agent**: Click **RUN**.
+6. **Confirmation**: When the AI proposes a command, review the pop-up and confirm or decline execution.
