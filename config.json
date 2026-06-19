@@ -1,0 +1,11 @@
+{
+  "provider": "groq",
+  "groq_api_key": "gAAAAABqBJyZBdVpL5CuRgOXZPctJNTtfvHjEMWFjw8lcYrk8NptaaO6cVEVvuepMumgPb0FmcARVKL7dG0Db1DZ75FlxEMSBjQijG-i3Fxoyvw61Jr6kTht8q6LgBfjXXjPLszX7Pd9h-9KMjx2bGf55c9iEJEayQ==",
+  "groq_model": "llama-3.3-70b-versatile",
+  "ollama_host": "127.0.0.1",
+  "ollama_port": 11434,
+  "ollama_model": "llama3",
+  "theme": "Dark",
+  "language": "EN",
+  "geometry": "1151x827+372+90"
+}
